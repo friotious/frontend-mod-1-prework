@@ -40,7 +40,7 @@
 
 9. What questions do you still have about the work we've done so far? (not having a question is not an option)  
 
-  I suck at typing.  Do you reccomend working on it specifically, or just letting it progress as it will considering I will be typing a lot?
+  I suck at typing.  Do you recommend working on it specifically, or just letting it progress as it will considering I will be typing a lot?
 
   Is there a preferred method to add spaces? I notice a space will be added to a string right before the end of the quote, or sometimes it is put by itself in between quotes.  Seems like adding it to the string is less clutter.  Does it matter?    
 
