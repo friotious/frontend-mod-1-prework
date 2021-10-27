@@ -38,16 +38,24 @@ if (bearChoice === 1) {
 Questions
 
 1. In English, using technical vocabulary, describe what is happening between lines 14 and 18.
-
+      If conditional value of variable doorChoice is equal to 1, true, return string 'hat', if false, return string 'scarf'
 2. What variable has a new value assigned to it after the first if statement executes?
-
+      bearCLothing
 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
-
+      Nothing, if doorChoice is assigned a value of 3, a string is returned without variable bearClothing.
 4. In English, using technical vocabulary, describe what is happening between lines lines 27 and 35.
-
+      If variable bearChoice is equal to number 1, true,  return string
+         "You offer the bear your " + bearClothing + " and the bear shows you a secret passage out!"
+      If variable bearChoice is not equal to number 1, ask if it is equal to number 2, if true, return string
+         "You tell the bear the " + bearClothing + " is too small and it starts to cry!"
+      If variable bearChoice is not equal to number 2, ask if it is equal to number 3, if true, return string
+         "You run as fast as you can into the next room. It's full of snakes!"
+      If variable bearChoice is not equal to number 3, false, return string
+         "You stay with the bear and become it's best friend!"
 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
-
+      "You run as fast as you can into the next room. It's full of snakes!"
 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
-
+      "You tell the bear the hat is too small and it starts to cry!"
 7. What is your favorite ending?
+      You stay with the bear and become it's best friend!
 */
