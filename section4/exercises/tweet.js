@@ -17,28 +17,28 @@ class Tweet {
     this.comments = comments;
   }
     changeAuthor(theAuthor) {
-      this.author = theAuthor
+      this.author = theAuthor;
     }
     changeContent(tweetContent) {
-      this.content = tweetContent
+      this.content = tweetContent;
     }
     changeTime(timeTweet) {
-      this.timeStamp = timeTweet
+      this.timeStamp = timeTweet;
     }
     numLikes() {
-      this.numberOfLikes = this.numberOfLikes +1
+      this.numberOfLikes = this.numberOfLikes +1;
     }
     addComments(newComments) {
-      this.comments.push(newComments)
+      this.comments.push(newComments);
     }
 };
 
-var tweet1 = new Tweet("Joe", "cat meme", "11:27", 2, ["Cool!", "Neat!", "Swell"])
-var tweet2 = new Tweet("Moe", "dog meme", "03:43", 3, ["Why?", "Rude!", "Unfollow..."])
-var tweet3 = new Tweet("Moe", "penguin meme", "2:12", 4, ["Cool penguin meme", "Yay!"])
+var tweet1 = new Tweet("Joe", "cat meme", "11:27", 2, ["Cool!", "Neat!", "Swell"]);
+var tweet2 = new Tweet("Moe", "dog meme", "03:43", 3, ["Why?", "Rude!", "Unfollow..."]);
+var tweet3 = new Tweet("Moe", "penguin meme", "2:12", 4, ["Cool penguin meme", "Yay!"]);
 
-tweet2.addComments("WTF")
-console.log(tweet2)
-tweet2.numLikes()
-tweet2.numLikes()
-console.log(tweet2)
+tweet2.addComments("WTF");
+console.log(tweet2);
+tweet2.numLikes();
+tweet2.numLikes();
+console.log(tweet2);

@@ -44,27 +44,27 @@ function greetMe(name) {
   console.log(name);
 }
 
-greetMe('Rio')
-greetMe('Koa')
-greetMe('Kai')
+greetMe('Rio');
+greetMe('Koa');
+greetMe('Kai');
 
 // YOU DO: Write a function that takes in 2 numbers as arguments, Numbers, and logs their sum
 // Then, call that function 3 times, each time, passing in 2 different Numbers.
 
 function sumOf(num1, num2) {
-  console.log(num1 + num2)
+  console.log(num1 + num2);
 }
-sumOf(2,3)
-sumOf(11,22)
-sumOf(99,2)
+sumOf(2,3);
+sumOf(11,22);
+sumOf(99,2);
 // YOU DO🎈: Write a function that takes in two strings and prints a concatenation
 // of those two strings, for example the arguments could be ("Oscar", "Ruck") and
 // the end result might be "Oscar and Ruck are BFFS".  Then, call that function.
 
 function besties(name1, name2) {
-console.log(name1 + ' and ' + name2 + ' are BFFS')
+console.log(name1 + ' and ' + name2 + ' are BFFS');
 }
-besties('Oscar', 'Ruck')
+besties('Oscar', 'Ruck');
 //-------------------
 // PART 3: Naming is Hard
 //-------------------

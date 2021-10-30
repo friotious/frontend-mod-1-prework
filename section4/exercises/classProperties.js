@@ -19,19 +19,19 @@ Make sure to run the file with node in your command line.
 class Dog {
 }
 var name = new Dog();
-var color = new Dog()
+var color = new Dog();
 
 // Prompt 2: Snack
 class Snack {
 }
-var sandwich = new Snack()
-var fruit = new Snack()
+var sandwich = new Snack();
+var fruit = new Snack();
 
 // Prompt 3: Shirt
 class Shirt {
 }
-var color = new Shirt()
-var size = new Shirt()
+var color = new Shirt();
+var size = new Shirt();
 
 //-------------------
 // Part 2: Properties
@@ -52,9 +52,9 @@ class Dog {
     this.color = "brown";
     this.age = 11;
   }
-}
+};
 var beagle = new Dog();
-console.log(beagle)
+console.log(beagle);
 
 // Prompt 2: Snack
 
@@ -64,9 +64,9 @@ class Snack {
     this.salty = false;
     this.calories = 125;
   }
-}
+};
 var banana = new Snack();
-console.log(banana)
+console.log(banana);
 
 // Prompt 3: Shirt
 
@@ -76,9 +76,9 @@ class Shirt {
     this.color = 'blue';
     this.material = 'bamboo';
   }
-}
+};
 var teeShirt = new Shirt();
-console.log(teeShirt)
+console.log(teeShirt);
 
 //-------------------
 // Part 3: Dynamic Properties
@@ -100,9 +100,9 @@ class Dog {
     this.color = color;
     this.age = age;
   }
-}
+};
 var beagle = new Dog("buddy", "brown", 11);
-console.log(beagle)
+console.log(beagle);
 
 // Prompt 2: Snack
 
@@ -112,9 +112,9 @@ class Snack {
     this.salty = salty;
     this.calories = calories;
   }
-}
-var banana = new Snack("yes", "no", 125)
-console.log(banana)
+};
+var banana = new Snack("yes", "no", 125);
+console.log(banana);
 
 // Prompt 3: Shirt
 class Shirt {
@@ -123,6 +123,6 @@ class Shirt {
     this.color = color;
     this.material = material;
   }
-}
-var teeShirt = new Shirt("M", "blue", "bamboo")
-console.log(teeShirt)
+};
+var teeShirt = new Shirt("M", "blue", "bamboo");
+console.log(teeShirt);

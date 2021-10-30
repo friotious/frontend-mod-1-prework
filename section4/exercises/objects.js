@@ -32,25 +32,25 @@ var zooAnimals = {
   penguins: 11,
   hippos: 3,
   monkeys: 27
-}
+};
 
 // Using the zoo that you created above, log the value of the first item in
 // the Object
-console.log(zooAnimals.penguins)
+console.log(zooAnimals.penguins);
 
 // Add an animal to the zoo Object, and log the updated Object.
-zooAnimals.lions = 7
-console.log(zooAnimals)
+zooAnimals.lions = 7;
+console.log(zooAnimals);
 
 // Change the value for at least one of your animal keys, and log the updated Object.
 
-zooAnimals.penguins = 17
-console.log(zooAnimals)
+zooAnimals.penguins = 17;
+console.log(zooAnimals);
 
 // Add another animal to the zoo Object, and log the updated Object.
 
-zooAnimals.giraffes = 2
-console.log(zooAnimals)
+zooAnimals.giraffes = 2;
+console.log(zooAnimals);
 
 //-------------------
 // Part 2: Email
@@ -71,7 +71,7 @@ var emailFromBrandon = {
   CCd: ["joe@odb.com", "kim@odb.com", "mike@odb.com"],
   time: "11:21am",
   date: "11/01/2020"
-}
+};
 //-------------------
 // Part 3: Many Emails - OPTIONAL EXTENSION
 //-------------------
@@ -106,7 +106,7 @@ var posts = [
     numberLikes: 13,
     comments: []
   }
-]
+];
 
 console.log(posts);
 console.log(posts[0]);
@@ -144,8 +144,8 @@ var emails = [
     time: "9:27pm",
     date: "08/01/2020"
     }
-]
-console.log(emails)
+];
+console.log(emails);
 //
 //
 //

@@ -37,7 +37,7 @@ perform this evaluation
 // YOU DO: log the result of the comparison: is numberTeachers strictly equal to stringTeachers? (use the === operator)
 // this should log: false
 
-console.log(numberTeachers === stringTeachers)
+console.log(numberTeachers === stringTeachers);
 
 /*
 Note: the strictly equal to operator compares the value of the variable in addition to the type of the variable.
@@ -51,19 +51,19 @@ you develop good habits that follow best practice, from now on, use the strict c
 
 // YOU DO: log the result of the comparison: is numberTeachers not equal to numberStudents?
 // this should log: true
-console.log(numberTeachers != numberStudents)
+console.log(numberTeachers != numberStudents);
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 20?
 // this should log: true
-console.log(numberStudents >= 20)
+console.log(numberStudents >= 20);
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 21?
 // this should log: false
-console.log(numberStudents >= 21)
+console.log(numberStudents >= 21);
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 20?
 // this should log: true
-console.log(numberStudents <= 20)
+console.log(numberStudents <= 20);
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 21?
 // this should log: true
-console.log(numberStudents <=21)
+console.log(numberStudents <=21);
 
 
 //-------------------
@@ -133,7 +133,7 @@ console.log(lovesToPlay || lovesDogPark);
 
 
 // Determine if the dog loves to play and is a puppy
-console.log(lovesToPlay && age <= 1)
+console.log(lovesToPlay && age <= 1);
 // What did your final line of code evaluate to? Why do you think that is? Explain.
 // ANSWER:
 // true, I printed to terminal if variable age is less than or equal to 1 and variable lovesToPlay are both true.

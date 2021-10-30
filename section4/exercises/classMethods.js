@@ -41,19 +41,19 @@ class Burrito {
     }
   // ADD CODE
 };
-var burrito1 = new Burrito("beef", "rice", ['salsa', 'guac', 'cheese'])
-var burrito2 = new Burrito("none", "veggies", ['salsa', 'jalapenos', 'cheese'])
-var burrito3 = new Burrito("chicken", "beans", ['salsa', 'guac', 'sour cream'])
+var burrito1 = new Burrito("beef", "rice", ['salsa', 'guac', 'cheese']);
+var burrito2 = new Burrito("none", "veggies", ['salsa', 'jalapenos', 'cheese']);
+var burrito3 = new Burrito("chicken", "beans", ['salsa', 'guac', 'sour cream']);
 
-console.log(burrito1)
-burrito1.changeProtein("steak")
-console.log(burrito1)
+console.log(burrito1);
+burrito1.changeProtein("steak");
+console.log(burrito1);
 
-burrito2.addTopping("guac")
-console.log(burrito2)
+burrito2.addTopping("guac");
+console.log(burrito2);
 
-burrito3.addTopping("olives")
-console.log(burrito3)
+burrito3.addTopping("olives");
+console.log(burrito3);
 
 
 // ADD CODE
