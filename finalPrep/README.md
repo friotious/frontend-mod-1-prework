@@ -1,3 +1,4 @@
+
 # Mod 1 Final Prep
 Congrats on making it to the Mod 0 Final Prep! Complete the final exercises below and be sure to carefully follow the Pull Request steps to submit your work!
 
@@ -31,9 +32,9 @@ In Mod 0 you've learned about different techniques for managing your time at Tur
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here`
-- `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
+- <img width="1205" alt="cal1" src="https://user-images.githubusercontent.com/92247104/139558857-968a2a7b-66ac-4f3f-baf4-a52e3a802777.png">
+- <img width="1195" alt="cal2" src="https://user-images.githubusercontent.com/92247104/139558847-e0aa6625-44ba-4d85-af62-6e2b5dfa6e87.png">
+- <img width="1205" alt="cal3" src="https://user-images.githubusercontent.com/92247104/139558848-702df821-2585-4745-b16b-7939ba8a7448.png">
 
 ### Mentorship Prep
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
