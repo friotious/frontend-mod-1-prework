@@ -64,7 +64,7 @@ sumOf(99,2)
 function besties(name1, name2) {
 console.log(name1 + ' and ' + name2 + ' are BFFS')
 }
-bestFrens('Oscar', 'Ruck')
+besties('Oscar', 'Ruck')
 //-------------------
 // PART 3: Naming is Hard
 //-------------------
@@ -78,7 +78,7 @@ What did you name each parameter, and why?
 
 EXPLAIN:
   named besties, seemd short and to the point.  Since using simple names, numbering seemed easy and quick.
-  
+
 
 
 */
